@@ -1,7 +1,9 @@
-"# CodeBreaker" 
+"## CodeBreaker" 
+
 Code breaker is a console game created using the instructions below. I created two implementations. One fairly simple and the other with ASCII art.
 
-#Instructions
+##Instructions
+
 Implement a code breaking game as a console application. At the beginning of the game, it randomly generates a secret 4 digit code.
 Each digit should be unique. For example, 0123 and 3217 are valid codes, but 0112 and 7313 are not.
 
